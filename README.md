@@ -1,5 +1,4 @@
 # Week 1 – TypeRacer
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ai-programs/week1-typeracer?quickstart=1)
-
-Build and publish your first web game.
+**Before you start:** click "Use this template" (green button, top right) 
+to create your own copy of this repo. Then open a Codespace from there.
